@@ -1,5 +1,5 @@
-const apiKey = '78cf9997fb7b4b7a01bc065f1b61b5e7'; // Reemplaza con tu API Key de OpenWeatherMap
-const ciudad = 'Guatemala City';
+const apiKey = ''; // Reemplaza con tu API Key de OpenWeatherMap
+const ciudad = ''; // Aca tu ciudad segun la api
 
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(ciudad)}&appid=${apiKey}`;
 
