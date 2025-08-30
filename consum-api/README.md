@@ -2,7 +2,7 @@
 
 ## Ejercicio 1: El Traductor de Star Wars
 
-🪐 **Objetivo:** Practicar una petición GET a una API divertida y poco convencional.
+**Objetivo:** Practicar una petición GET a una API divertida y poco convencional.
 
 - Investiga la "Fun Translations API" y encuentra el endpoint para traducir texto al idioma de Yoda.
 - Haz una petición POST (¡sí, POST!) a la API con un texto simple en inglés (ej: "You must learn the ways of the force").
@@ -11,7 +11,7 @@
 
 ## Ejercicio 2: ¿Qué tiempo hace?
 
-🌦️ **Objetivo:** Utilizar una API que requiere una clave (API Key), un concepto fundamental en el mundo real, busca la forma de generar tu propia API y cómo usarla, van a tener que investigar en la documentación.
+**Objetivo:** Utilizar una API que requiere una clave (API Key), un concepto fundamental en el mundo real, busca la forma de generar tu propia API y cómo usarla, van a tener que investigar en la documentación.
 
 - Regístrate en OpenWeatherMap (openweathermap.org) y obtén una API Key gratuita.
 - Lee su documentación para encontrar el endpoint del "Current weather data".
@@ -20,7 +20,7 @@
 
 ## Ejercicio 3: Manejador de errores Pokémon
 
-🚫 **Objetivo:** Aprender a manejar respuestas de error de una API, este clavo ya lo discutimos en clase.
+**Objetivo:** Aprender a manejar respuestas de error de una API, este clavo ya lo discutimos en clase.
 
 - Reutiliza el código del ejercicio de la PokéAPI de la clase.
 - Modifícalo para que intente buscar un Pokémon que no existe (ej: pikachuuuu).
